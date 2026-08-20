@@ -1,0 +1,100 @@
+m255
+K4
+z2
+!s12c _opt1
+Z0 !s99 nomlopt
+Z1 !s12c _opt
+R0
+R1
+R0
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z2 dC:/Users/balaj/Documents/Silicon-projects/alu-verification
+T_opt
+!i145 1
+!i144 0
+!s110 1787255075
+VgGa@a]l91jEJg:zYmzAld0
+Z3 04 6 4 work alu_tb fast 0
+=1-401a58b50e1b-6a875922-309-7a14
+R0
+Z4 !s12f OEM100
+Z5 !s12b OEM100
+Z6 !s124 OEM10U2 
+Z7 !s135 nogc
+o-quiet -auto_acc_if_foreign -work work
+Z8 tCvgOpt 0 defaultOptions 1108163524
+n@_opt
+Z9 OL;O;2025.3;82
+R2
+T_opt1
+!i145 1
+!i144 0
+!s110 1787255429
+V=5f8L@kKzTYm1YHe_7C;_2
+R3
+=1-401a58b50e1b-6a875a84-109-62c0
+R0
+R4
+R5
+R6
+R7
+o-quiet -auto_acc_if_foreign -work work +acc
+R8
+n@_opt1
+R9
+valu
+Z10 2rtl/alu.sv|tb/alu.tb.sv
+Z11 DXx6 sv_std 3 std 0 22 @5XbY]_OacJl=`ToSm<M^0
+Z12 !s110 1787254848
+!i10b 1
+!s100 ch]810;NKC_G?<Tz6oYKP3
+IR4?a747JD6jaAn4FFLg=:3
+S1
+R2
+w1787252048
+8rtl/alu.sv
+Frtl/alu.sv
+!i122 4
+L0 1 47
+Z13 VDg1SIo80bB@j0V0VzS_@n1
+Z14 OL;L;2025.3;82
+r1
+!s85 0
+31
+Z15 !s108 1787254847.000000
+Z16 !s107 tb/alu.tb.sv|rtl/alu.sv|
+Z17 !s90 -reportprogress|300|-sv|rtl/alu.sv|tb/alu.tb.sv|
+!i113 0
+Z18 o-sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z19 tCvgOpt 0 defaultOptions 1085729624
+valu_tb
+R10
+R11
+R12
+!i10b 1
+!s100 bNb?XbL7TNRc8XAcX4OCQ2
+IjWEmmKgWZY1YZIiB`^FjJ1
+S1
+R2
+w1787254812
+8tb/alu.tb.sv
+Ftb/alu.tb.sv
+!i122 4
+L0 3 128
+R13
+R14
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 0
+R18
+R19
