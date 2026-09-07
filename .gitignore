@@ -1,0 +1,6 @@
+work/
+*.wlf
+transcript
+sim_build/
+proof/*.vcd
+proof/*.log

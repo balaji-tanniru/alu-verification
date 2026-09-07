@@ -1,3 +1,13 @@
+# ALU Verification
+
+## Verification status
+
+The portable smoke flow is defined for Icarus Verilog. In this repair environment Icarus was not installed, so the updated RTL smoke was not executed here. The constrained-random class and covergroup are intended for a SystemVerilog simulator with class/coverage support; the Icarus path uses portable pseudo-random stimulus and does not collect covergroup coverage.
+
+## Repository
+
+This repository contains the RTL/testbench/automation sources for the project. Review fixes are summarized in the package-level `CHANGES.md`.
+
 # 32-bit ALU Verification
 
 This is my first SystemVerilog verification project.
